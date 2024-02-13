@@ -4,7 +4,7 @@ This repository is dedicated to this course, Robotics 2.
 The repository might be unorganized, but I am planning to organize it towards the end of the semester.
 
 GROUP MEMBERS:
-- JOHN EMMANUEL DATINGUINNOO
-- RALPH NEIL MARANAN
-- ANGEL MANALO
-- KIMBERLY FABUNAN
+- DATINGUINNOO, JOHN EMMANUEL
+- MARANAN, RALPH NEIL
+- MANALO, ANGEL
+- FABUNAN, KIMBERLY
