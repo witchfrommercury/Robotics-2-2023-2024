@@ -5,7 +5,7 @@ The repository might be unorganized, but I am planning to organize it towards th
 
 GROUP MEMBERS:
 - DATINGUINNOO, JOHN EMMANUEL
-- FABUNAN, KIMBERLY
+- FABUNAN, KIMBERLY C.
 - MANALO, ANGEL
 - MARANAN, RALPH NEIL
   
